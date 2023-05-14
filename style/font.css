@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "vaziri-bold-e";
+    src: url(../font/english/Vazir-Bold.woff) format(woff); 
+   
+}
+
+@font-face {
+
+    font-family: "vazir-light-e";
+    src: url(../font/english/Vazir-Light.woff) format(woff);
+}
+
+
+@font-face {
+
+    font-family: "vazir-thin";
+    src: url(../font/english/Vazir.woff) format(woff);
+}
+
+@font-face {
+
+    font-family: "vaziri-bold-p";
+    src: url(../font/persian/Vazir-Bold-FD-WOL.woff) format(woff);
+
+}
+
+
+@font-face {
+
+    font-family: "vaziri-fd";
+    src: url(../font/persian/Vazir-FD-WOL.woff) format(woff);
+
+}
+
+
+@font-face {
+
+    font-family: "vaziri-light";
+    src: url(../font/persian/Vazir-Light-FD-WOL.woff) format(woff);
+
+}
